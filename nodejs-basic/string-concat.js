@@ -1,6 +1,6 @@
 function concat(a,b)
 {
-  return '${a}${a}';
+  return `${a}${a}`;
 }
 
 module.exports = {
